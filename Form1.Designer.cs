@@ -41,7 +41,6 @@
             this.okno = new System.Windows.Forms.TextBox();
 
             // 
-            // btn0
             // 
             this.btn0.Location = new System.Drawing.Point(10, 210);
             this.btn0.Name = "btn0";
@@ -52,7 +51,6 @@
             this.btn0.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn1
             // 
             this.btn1.Location = new System.Drawing.Point(10, 150);
             this.btn1.Name = "btn1";
@@ -63,7 +61,6 @@
             this.btn1.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn2
             // 
             this.btn2.Location = new System.Drawing.Point(70, 150);
             this.btn2.Name = "btn2";
@@ -74,7 +71,6 @@
             this.btn2.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn3
             // 
             this.btn3.Location = new System.Drawing.Point(130, 150);
             this.btn3.Name = "btn3";
@@ -85,7 +81,6 @@
             this.btn3.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn4
             // 
             this.btn4.Location = new System.Drawing.Point(10, 90);
             this.btn4.Name = "btn4";
@@ -96,7 +91,6 @@
             this.btn4.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn5
             // 
             this.btn5.Location = new System.Drawing.Point(70, 90);
             this.btn5.Name = "btn5";
@@ -107,7 +101,6 @@
             this.btn5.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn6
             // 
             this.btn6.Location = new System.Drawing.Point(130, 90);
             this.btn6.Name = "btn6";
@@ -118,7 +111,6 @@
             this.btn6.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn7
             // 
             this.btn7.Location = new System.Drawing.Point(10, 30);
             this.btn7.Name = "btn7";
@@ -129,7 +121,6 @@
             this.btn7.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn8
             // 
             this.btn8.Location = new System.Drawing.Point(70, 30);
             this.btn8.Name = "btn8";
@@ -140,7 +131,6 @@
             this.btn8.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btn9
             // 
             this.btn9.Location = new System.Drawing.Point(130, 30);
             this.btn9.Name = "btn9";
@@ -151,7 +141,6 @@
             this.btn9.Click += new System.EventHandler(this.btnNumber_Click);
 
             // 
-            // btnAdd
             // 
             this.btnAdd.Location = new System.Drawing.Point(190, 30);
             this.btnAdd.Name = "btnAdd";
@@ -162,7 +151,6 @@
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
 
             // 
-            // btnSubtract
             // 
             this.btnSubtract.Location = new System.Drawing.Point(190, 90);
             this.btnSubtract.Name = "btnSubtract";
@@ -173,7 +161,6 @@
             this.btnSubtract.Click += new System.EventHandler(this.btnSubtract_Click);
 
             // 
-            // btnMultiply
             // 
             this.btnMultiply.Location = new System.Drawing.Point(190, 150);
             this.btnMultiply.Name = "btnMultiply";
@@ -184,7 +171,6 @@
             this.btnMultiply.Click += new System.EventHandler(this.btnMultiply_Click);
 
             // 
-            // btnDivide
             // 
             this.btnDivide.Location = new System.Drawing.Point(190, 210);
             this.btnDivide.Name = "btnDivide";
@@ -195,7 +181,6 @@
             this.btnDivide.Click += new System.EventHandler(this.btnDivide_Click);
 
             // 
-            // btnEquals
             // 
             this.btnEquals.Location = new System.Drawing.Point(130, 210);
             this.btnEquals.Name = "btnEquals";
@@ -206,7 +191,6 @@
             this.btnEquals.Click += new System.EventHandler(this.btnEquals_Click);
 
             // 
-            // btnClear
             // 
             this.btnClear.Location = new System.Drawing.Point(70, 210);
             this.btnClear.Name = "btnClear";
@@ -217,7 +201,6 @@
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
 
             // 
-            // okno
             // 
             this.okno.Location = new System.Drawing.Point(10, 270);
             this.okno.Name = "okno";
@@ -226,7 +209,6 @@
             this.okno.Text = "0";
 
             // 
-            // Form1
             // 
             this.ClientSize = new System.Drawing.Size(284, 311);
             this.Controls.Add(this.okno);
